@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m @tgodkev
+- 👋 Hi, I’m Kevin.
 - 👀 I’m interested in Web development and smoking meats.
 - 🌱 I’m currently learning JavaScript and react.
 - 💞️ I’m looking to collaborate on open source projects.
