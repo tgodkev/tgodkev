@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m Kevin.
 - 👀 I’m interested in Web development and smoking meats.
-- 🌱 I’m currently using JavaScript, React.js, Node.js, Mongodb.
+- 🌱 I’m currently using JavaScript, React.js Or Angular, Node.js, Mongodb.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me codebykev@gmail.com
 
