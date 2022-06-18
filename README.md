@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m Kevin.
 - 👀 I’m interested in Web development and smoking meats.
-- 🌱 I’m currently using React, Vue or Angular.
+- 🌱 I’m currently using Vue with Nuxt.js
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me kevin@kevinknight.io, or visit me at my website https://kevinknight.io
 
