@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m Kevin.
 - 👀 I’m interested in Web development and smoking meats.
-- 🌱 I’m currently using what ever js framework suits my needs
+- 🌱 I’m currently using what ever js framework suits my needs, One day Im using Angluar the next im using svelete and almost anythign in between.
 - 📫 You can reach me at kevin@kevinknight.io, or visit me at my website https://kevinknight.io
 
 <!---
