@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgodkev&hide=vue,html&layout=large&theme=tokyonight)](https://github.com/tgodkev/github-readme-stats)
 
 
-![togkevs's github stats](https://github-readme-stats.vercel.app/api?username=tgodkev&theme=tokyonight&show_icons=true)
+![togkevs's github stats](https://github-readme-stats.vercel.app/api?username=tgodkev&count_private=true&theme=tokyonight&show_icons=true)
