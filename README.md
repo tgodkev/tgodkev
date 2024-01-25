@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgodkev&hide=html,vue,css,svelte,swift,javascript,dockerfile&theme=tokyonight)](https://github.com/tgodkev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgodkev&hide=html,vue,css,svelte,swift,dockerfile&theme=tokyonight)](https://github.com/tgodkev/github-readme-stats)
 
 <!---
 tgodkev/tgodkev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
